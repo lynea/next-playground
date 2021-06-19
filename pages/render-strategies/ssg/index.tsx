@@ -1,5 +1,5 @@
-import { FunctionComponent } from "react";
-import Avatar from "../../../components/atoms/Avatar";
+import { FunctionComponent } from 'react';
+import Avatar from '../../../components/atoms/Avatar';
 
 const SsgPage: FunctionComponent = () => (
   <div>

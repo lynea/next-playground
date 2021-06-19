@@ -13,6 +13,5 @@ overflow:hidden;
 `
 
 export const Example = styled(Image)`
-
  clip-path: circle(40%);
 `;
